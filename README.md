@@ -28,9 +28,10 @@ Customer Behavior Analysis
     The cleaned data was imported into MySQL to execute advanced relational queries and extract core business metrics.
 
   SQL Techniques Applied:
-     Aggregation & Filtering: SELECT, GROUP BY, WHERE, ORDER BY, LIMIT.
-     Advanced Functions: ROUND(), AVG(), SUM(), COUNT(), CASE WHEN.
-     Analytical Power: Common Table Expressions (CTEs), Subqueries, and Window Functions (RANK(), ROW_NUMBER()).
+  
+   Aggregation & Filtering: SELECT, GROUP BY, WHERE, ORDER BY, LIMIT.
+   Advanced Functions: ROUND(), AVG(), SUM(), COUNT(), CASE WHEN.
+   Analytical Power: Common Table Expressions (CTEs), Subqueries, and Window Functions (RANK(), ROW_NUMBER()).
 
   Key Business Insights Uncovered:
      Demographic Revenue: Evaluated total revenue contributions segmented by age groups and Male vs. Female splits.
