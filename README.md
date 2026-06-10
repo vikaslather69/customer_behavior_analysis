@@ -38,11 +38,17 @@ Customer Behavior Analysis
   Key Business Insights Uncovered:
   
    Demographic Revenue: Evaluated total revenue contributions segmented by age groups and Male vs. Female splits.
+   
    Promotion Efficiency: Isolated high-value coupon users—specifically identifying customers who used a discount but still outspent the average purchase amount.
+   
    Product Performance: Identified the top 5 products by average review ratings and the top 3 most purchased products within each unique product category.
+   
    Logistics Impact: Compared average purchase amounts between Standard and Express shipping to check if faster shipping yields bigger baskets.
+   
    Subscription Value: Verified whether subscriber customers demonstrate higher lifetime spend than non-subscribers.
+   
    Discount Affinity: Found the top 5 products with the highest percentage of purchases that had a discount applied.
+   
    Customer Segmentation: Classified users into New, Returning, and Loyal buckets based on historical transaction frequency.
    
 
