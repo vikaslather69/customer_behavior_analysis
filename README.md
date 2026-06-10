@@ -55,13 +55,19 @@ Customer Behavior Analysis
 3. Interactive Visualization (Power BI)
     The refined dataset was integrated into Power BI to create the Customer Behavior Dashboard, a dynamic, one-page report designed for stakeholders.
 
-  Dashboard Components:
-      Executive KPIs: High-level cards tracking Total Customers, Average Purchase Amount, and Average Review Rating.
-      Subscription Dynamics: A Donut Chart displaying the percentage breakdown of customers by subscription status.
-      Financial Drivers: Column Charts tracking total revenue by Product Category and Payment Method.
-      Operational Trends: A Bar Chart analyzing customer volume variations across different Seasons.
-      Inventory Demand: A Column Chart displaying previous items purchased by Category.
-      Dynamic Filtering: High-utility Button Slicers allowing cross-filtering by Age Group, Gender, and Location for granular exploration.
+   Dashboard Components:
+
+   Executive KPIs: High-level cards tracking Total Customers, Average Purchase Amount, and Average Review Rating.
+
+   Subscription Dynamics: A Donut Chart displaying the percentage breakdown of customers by subscription status.
+
+   Financial Drivers: Column Charts tracking total revenue by Product Category and Payment Method.
+
+   Operational Trends: A Bar Chart analyzing customer volume variations across different Seasons.
+
+   Inventory Demand: A Column Chart displaying previous items purchased by Category.
+
+   Dynamic Filtering: High-utility Button Slicers allowing cross-filtering by Age Group, Gender, and Location for granular exploration.
     
 
 🎯 Key Business Insights
