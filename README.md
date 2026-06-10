@@ -57,7 +57,7 @@ Customer Behavior Analysis
 🎯 Key Business Insights
      The SQL analysis and Power BI dashboard revealed these primary findings:
       1. Age Group Insights (Young Adults)
-          *   The Young Adult age group is the largest customer segment with over 1,000 customers.
+          *    The Young Adult age group is the largest customer segment with over 1,000 customers.
           *   Their average purchase amount is $60.45.
           *   They bring in the highest revenue in the Clothing category.
           *   Their peak shopping time is during the Winter season.
