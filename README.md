@@ -74,7 +74,8 @@ Customer Behavior Analysis
 
 
 📊 Dashboard is look like as:
-    example 
+
+   example 
 
 
 
