@@ -27,31 +27,31 @@ Customer Behavior Analysis
 2. Strategic Database Querying (MySQL)
     The cleaned data was imported into MySQL to execute advanced relational queries and extract core business metrics.
 
-SQL Techniques Applied:
-      Aggregation & Filtering: SELECT, GROUP BY, WHERE, ORDER BY, LIMIT.
-      Advanced Functions: ROUND(), AVG(), SUM(), COUNT(), CASE WHEN.
-      Analytical Power: Common Table Expressions (CTEs), Subqueries, and Window Functions (RANK(), ROW_NUMBER()).
+  SQL Techniques Applied:
+     Aggregation & Filtering: SELECT, GROUP BY, WHERE, ORDER BY, LIMIT.
+     Advanced Functions: ROUND(), AVG(), SUM(), COUNT(), CASE WHEN.
+     Analytical Power: Common Table Expressions (CTEs), Subqueries, and Window Functions (RANK(), ROW_NUMBER()).
 
-Key Business Insights Uncovered:
-      Demographic Revenue: Evaluated total revenue contributions segmented by age groups and Male vs. Female splits.
-      Promotion Efficiency: Isolated high-value coupon users—specifically identifying customers who used a discount but still outspent the average purchase amount.
-      Product Performance: Identified the top 5 products by average review ratings and the top 3 most purchased products within each unique product category.
-      Logistics Impact: Compared average purchase amounts between Standard and Express shipping to check if faster shipping yields bigger baskets.
-      Subscription Value: Verified whether subscriber customers demonstrate higher lifetime spend than non-subscribers.
-      Discount Affinity: Found the top 5 products with the highest percentage of purchases that had a discount applied.
-      Customer Segmentation: Classified users into New, Returning, and Loyal buckets based on historical transaction frequency.
+  Key Business Insights Uncovered:
+     Demographic Revenue: Evaluated total revenue contributions segmented by age groups and Male vs. Female splits.
+     Promotion Efficiency: Isolated high-value coupon users—specifically identifying customers who used a discount but still outspent the average purchase amount.
+     Product Performance: Identified the top 5 products by average review ratings and the top 3 most purchased products within each unique product category.
+     Logistics Impact: Compared average purchase amounts between Standard and Express shipping to check if faster shipping yields bigger baskets.
+     Subscription Value: Verified whether subscriber customers demonstrate higher lifetime spend than non-subscribers.
+     Discount Affinity: Found the top 5 products with the highest percentage of purchases that had a discount applied.
+     Customer Segmentation: Classified users into New, Returning, and Loyal buckets based on historical transaction frequency.
    
 
 3. Interactive Visualization (Power BI)
     The refined dataset was integrated into Power BI to create the Customer Behavior Dashboard, a dynamic, one-page report designed for stakeholders.
 
-Dashboard Components:
+  Dashboard Components:
       Executive KPIs: High-level cards tracking Total Customers, Average Purchase Amount, and Average Review Rating.
-       Subscription Dynamics: A Donut Chart displaying the percentage breakdown of customers by subscription status.
-       Financial Drivers: Column Charts tracking total revenue by Product Category and Payment Method.
-       Operational Trends: A Bar Chart analyzing customer volume variations across different Seasons.
-       Inventory Demand: A Column Chart displaying previous items purchased by Category.
-       Dynamic Filtering: High-utility Button Slicers allowing cross-filtering by Age Group, Gender, and Location for granular exploration.
+      Subscription Dynamics: A Donut Chart displaying the percentage breakdown of customers by subscription status.
+      Financial Drivers: Column Charts tracking total revenue by Product Category and Payment Method.
+      Operational Trends: A Bar Chart analyzing customer volume variations across different Seasons.
+      Inventory Demand: A Column Chart displaying previous items purchased by Category.
+      Dynamic Filtering: High-utility Button Slicers allowing cross-filtering by Age Group, Gender, and Location for granular exploration.
     
 
 🎯 Key Business Insights
