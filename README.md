@@ -80,12 +80,13 @@ The SQL analysis and Power BI dashboard revealed these primary findings:
    *    Their average purchase amount is $60.45.
    *    bring in the highest revenue in the Clothing category.
    *    Their peak shopping time is during the Winter season.
-      2. Gender Insights (Male vs. Female)
+
+2. Gender Insights (Male vs. Female)
           *   There are more male customers than female customers in the database.
           *   Male customers spend an average of $59.53 per purchase.
           *   Men spend the most money on Clothing and prefer to pay with Cash.
           *   Men do most of their shopping during the Spring season.
-      3. Location Insights (Montana)
+3. Location Insights (Montana)
           *   Montana is the top location with the highest number of customers.
           *   Customers in Montana have an average purchase amount of $60.20.
           *   They spend the most of money in the Clothing category.
