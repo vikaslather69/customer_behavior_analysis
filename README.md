@@ -36,7 +36,8 @@ Customer Behavior Analysis
    Analytical Power: Common Table Expressions (CTEs), Subqueries, and Window Functions (RANK(), ROW_NUMBER()).
 
   Key Business Insights Uncovered:
-     Demographic Revenue: Evaluated total revenue contributions segmented by age groups and Male vs. Female splits.
+  
+   Demographic Revenue: Evaluated total revenue contributions segmented by age groups and Male vs. Female splits.
      Promotion Efficiency: Isolated high-value coupon users—specifically identifying customers who used a discount but still outspent the average purchase amount.
      Product Performance: Identified the top 5 products by average review ratings and the top 3 most purchased products within each unique product category.
      Logistics Impact: Compared average purchase amounts between Standard and Express shipping to check if faster shipping yields bigger baskets.
