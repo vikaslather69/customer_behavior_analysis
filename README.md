@@ -97,7 +97,6 @@ The SQL analysis and Power BI dashboard revealed these primary findings:
 
 
 📊 Dashboard is look like as:
-   ![Alt text].(https://github.com/vikaslather69/customer_behavior_analysis/blob/main/Screenshot%202026-06-10%20003649.png).
 
    example ![Dashboard Preview].(https://github.com/vikaslather69/customer_behavior_analysis/blob/main/Screenshot%202026-06-10%20003649.png).
 
