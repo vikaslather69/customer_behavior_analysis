@@ -82,15 +82,18 @@ The SQL analysis and Power BI dashboard revealed these primary findings:
    *    Their peak shopping time is during the Winter season.
 
 2. Gender Insights (Male vs. Female)
-          *   There are more male customers than female customers in the database.
-          *   Male customers spend an average of $59.53 per purchase.
-          *   Men spend the most money on Clothing and prefer to pay with Cash.
-          *   Men do most of their shopping during the Spring season.
-3. Location Insights (Montana)
-          *   Montana is the top location with the highest number of customers.
-          *   Customers in Montana have an average purchase amount of $60.20.
-          *   They spend the most of money in the Clothing category.
-          *   They do most of their shopping during the Summer season.
+  
+   *   There are more male customers than female customers in the database.
+   *    Male customers spend an average of $59.53 per purchase.
+   *    Men spend the most money on Clothing and prefer to pay with Cash.
+   *   Men do most of their shopping during the Spring season.
+   
+ 5. Location Insights (Montana)
+   
+    *   Montana is the top location with the highest number of customers.
+    *   Customers in Montana have an average purchase amount of $60.20.
+    *   They spend the most of money in the Clothing category.
+    *    They do most of their shopping during the Summer season.
 
 
 📊 Dashboard is look like as:
