@@ -30,7 +30,9 @@ Customer Behavior Analysis
   SQL Techniques Applied:
   
    Aggregation & Filtering: SELECT, GROUP BY, WHERE, ORDER BY, LIMIT.
+   
    Advanced Functions: ROUND(), AVG(), SUM(), COUNT(), CASE WHEN.
+   
    Analytical Power: Common Table Expressions (CTEs), Subqueries, and Window Functions (RANK(), ROW_NUMBER()).
 
   Key Business Insights Uncovered:
